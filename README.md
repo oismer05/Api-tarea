@@ -1,0 +1,1 @@
+Esta es una api creada con  nodejs que realiza un CRUD (create,read,update,delete) de tareas, Se trabajo con Es6 para facilitar el trabajo y babel que sirve para pasar codigo nuevo o moderno de javascript a codigo viejo o que sea entendible para los navegadores 
